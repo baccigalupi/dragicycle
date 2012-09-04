@@ -1,0 +1,13 @@
+{
+  "name": "unicycle",
+  "version": "0.0.1",
+  "dependencies": {
+    "buffet": "0.4.3",
+    "jake": "0.3.x",
+    "request": "2.11.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
